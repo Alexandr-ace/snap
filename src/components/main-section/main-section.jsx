@@ -9,7 +9,7 @@ import { ReactComponent as Maker } from "../../images/client-maker.svg";
 
 const MainSection = () => {
   return (
-    <section className="mt-6 flex w-full">
+    <section className="mt-7 flex w-full">
       <div className="relative mt-12 text-left">
         <h1 className="mt-6 whitespace-pre-line text-8xl font-black">
           {"Make\n remote work"}
