@@ -1,6 +1,6 @@
 import React from "react";
 
-const MenuItem = ({ text = "", icon }) => {
+const MenuItem = ({ text = "AWDADWS", icon }) => {
   return (
     <div className="flex w-full space-x-4">
       {icon}
